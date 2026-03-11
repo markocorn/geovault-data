@@ -1,6 +1,4 @@
-# GeoVault Paper Data + Scripts (Public)
-
-This folder is prepared as a standalone public repository package for the GeoVault paper.
+# GeoVault Paper Data + Scripts 
 
 ## Contents
 
