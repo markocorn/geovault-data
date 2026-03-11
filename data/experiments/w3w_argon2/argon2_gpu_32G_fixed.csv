@@ -1,0 +1,4 @@
+Run,Mem_MiB,Target_Hashes,Actual_Hashes,Time_Seconds,Speed_Hs
+1,32768,2,2,80.2386,0.0249
+2,32768,2,2,75.2054,0.0266
+3,32768,2,2,75.2154,0.0266
