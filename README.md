@@ -1,4 +1,6 @@
-# GeoVault Paper Data + Scripts 
+# GeoVault Data and Reproducibility Scripts
+
+This repository contains datasets and reproducibility scripts used in the GeoVault paper.
 
 ## Contents
 
@@ -23,10 +25,3 @@
 2. Run shell benchmarks from `scripts/shell/`.
 3. Run analysis/plot scripts from `scripts/matlab/`.
 4. Compare generated outputs to CSV files in `data/`.
-
-## Publish
-
-1. Create a new public Git repository.
-2. Copy this folder’s contents into that repo root.
-3. Commit and push.
-4. Add `LICENSE` and `CITATION.cff` (recommended).
